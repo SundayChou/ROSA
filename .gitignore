@@ -1,0 +1,46 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test and type-check caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Build and packaging artifacts (excludes local build artifacts like rosa.egg-info)
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local environment exports or secrets
+.env
+.env.*
+
+# Data folder handling: ignore local large data files but retain folder structure
+data/**/*
+!data/**/
+!data/**/.gitkeep
