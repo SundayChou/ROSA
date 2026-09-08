@@ -1,6 +1,6 @@
 # ROSA: target expression-free spatiotemporal imputation via optimal transport
 
-![Python 3.10](https://img.shields.io/badge/python-3.13-blue.svg)
+![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
 ![Version](https://img.shields.io/badge/version-0.0.1-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![DOI](https://zenodo.org/badge/1361088553.svg)](https://doi.org/10.5281/zenodo.22656109)
