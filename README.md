@@ -1,7 +1,7 @@
-# ROSA: expression-free spatiotemporal imputation of target slices via optimal transport
+# ROSA: spatiotemporal gene expression imputation of expression-free target slices
 
 ![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
-![Version](https://img.shields.io/badge/version-0.0.1-success.svg)
+![Version](https://img.shields.io/badge/version-0.0.2-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![DOI](https://zenodo.org/badge/1361088553.svg)](https://doi.org/10.5281/zenodo.22656109)
 
